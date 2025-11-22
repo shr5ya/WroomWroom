@@ -1,4 +1,4 @@
-package com.rental.model;
+package rental.model;
 
 public abstract class Vehicle {
     private String vehicleId;
