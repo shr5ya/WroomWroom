@@ -1,6 +1,6 @@
 package rental.service;
 
-import com.rental.model.*;
+import rental.model.*;
 import java.util.*;
 
 public class RentalService {
