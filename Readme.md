@@ -36,7 +36,7 @@ Vehicle-rental-app/
 Open your terminal or command prompt, navigate to the project root directory (`Vehicle-rental-app`), and run the following command to compile the Java source files. This will place the compiled `.class` files in the `bin` directory.
 
 ```bash
-javac -d bin rental/model/*.java rental/service/*.java rental/main/*.java
+javac -d bin com\rental\model\*.java com\rental\service\*.java com\rental\main\*.java    
 ```
 
 ### 2. Run the Application
